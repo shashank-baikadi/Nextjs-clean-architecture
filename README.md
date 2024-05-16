@@ -42,3 +42,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 shashank
  npx create-next-app@latest
+ npm run dev
+
+file based routing
+
+ execution - npm run dev --layout.tsx---root layout is rendered ----children will call local host ----page will be rendered 
+
+
+ React server components 
+ ![alt text](image.png)
+ ![alt text](image-1.png)
