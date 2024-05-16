@@ -1,1 +1,3 @@
 # Nextjs-clean-architecture
+
+latest
