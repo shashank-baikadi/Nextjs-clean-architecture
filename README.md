@@ -69,3 +69,17 @@ file based routing
  catch all segments 
  ![alt text](image-8.png)
  slug is common terminology for url
+
+ private folder 
+ ![alt text](image-9.png)
+
+ route Groups
+ ![alt text](image-10.png)
+
+ (auth)-using ()will tell next js to vomit out the routes from url
+ 
+ before -auth -register 
+ http://localhost:3000/auth/register 
+
+ after   (auth) -register 
+ http://localhost:3000/register 
