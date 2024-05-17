@@ -56,3 +56,16 @@ file based routing
  Nested routing 
  ![alt text](image-2.png)
  ![alt text](image-3.png)
+
+ Dynamic routing
+ ![alt text](image-4.png)
+ ![alt text](image-5.png)
+
+ Nested dynamic routing
+ ![alt text](image-6.png)
+ ![alt text](image-7.png)
+
+
+ catch all segments 
+ ![alt text](image-8.png)
+ slug is common terminology for url
