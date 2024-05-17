@@ -52,3 +52,7 @@ file based routing
  React server components 
  ![alt text](image.png)
  ![alt text](image-1.png)
+
+ Nested routing 
+ ![alt text](image-2.png)
+ ![alt text](image-3.png)
