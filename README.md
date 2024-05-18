@@ -104,3 +104,12 @@ special file in next.js
 for blog i have implemented loading file 
 benefits of loading file 
 ![alt text](image-15.png)
+
+
+parallel routes
+![alt text](image-16.png)
+if one section we wan to have loading we caan achieve it if we want to thrown error screen we can achieve it
+![alt text](image-17.png)
+
+sub navigation 
+![alt text](image-18.png)
