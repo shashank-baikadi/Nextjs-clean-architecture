@@ -94,3 +94,6 @@ Navigation
 
 Navigation Programmatically
 ![alt text](image-12.png)
+when clicked on place order we need to redirect to home page
+![alt text](image-13.png)
+useRouter only works in client component
