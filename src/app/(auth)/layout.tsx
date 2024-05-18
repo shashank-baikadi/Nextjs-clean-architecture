@@ -1,19 +1,27 @@
 import Link from 'next/link';
 
 const navLinks = [
-  { href: '/forgetpassword', label: 'forgetpaswword' },
-//   { href: '/products', label: 'Products' },
+  { href: '/forgetpassword', label: 'ForgetPassword' },
+  { href: '/login', label: 'Login' },
+  { href: '/register', label: 'Register' },
+
 ];
 
 export default function Layout({ children }: { children: React.ReactNode }) {
+
+
   return (
     <div>
       <h1>welcome to auth layout</h1>
-      {navLinks.map(link => (
-        <Link key={link.href} href={link.href}>
-          <a>{link.label}</a>
-        </Link>
-      ))}
+      {navLinks.map((link) => {
+
+          return (
+            <Link key={link.label} href={link.href}>
+{link.label}
+            </Link>
+          );
+       
+      } )}
       {children}
     </div>
   );
