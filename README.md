@@ -77,9 +77,15 @@ file based routing
  ![alt text](image-10.png)
 
  (auth)-using ()will tell next js to vomit out the routes from url
- 
+
  before -auth -register 
  http://localhost:3000/auth/register 
 
  after   (auth) -register 
  http://localhost:3000/register 
+
+ Routing Metadata
+
+![alt text](image-11.png)
+
+Navigation
