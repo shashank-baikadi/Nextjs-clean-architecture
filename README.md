@@ -97,3 +97,10 @@ Navigation Programmatically
 when clicked on place order we need to redirect to home page
 ![alt text](image-13.png)
 useRouter only works in client component
+
+
+special file in next.js 
+![alt text](image-14.png)
+for blog i have implemented loading file 
+benefits of loading file 
+![alt text](image-15.png)

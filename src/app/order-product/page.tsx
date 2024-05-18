@@ -6,7 +6,9 @@ export default function OrderProduct() {
     const router = useRouter()
     const handleClick = () => {
         console.log('placing our order ')
-        router.push('/')
+        router.push('/ ')
+        // router.forward()//move forward in next page
+        // router.back()//move backward in page 
     }
   return (
     <div>

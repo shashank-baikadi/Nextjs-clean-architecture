@@ -4,7 +4,8 @@ export default function Home() {
     <div>
       <h1>welcome to main layout</h1>
       <Link href="/about">About</Link><br />
-      <Link href="/products">Products</Link>
+      <Link href="/products">Products</Link><br/>
+      <Link href="/blog">Blog</Link>
     </div>
   );
 }
