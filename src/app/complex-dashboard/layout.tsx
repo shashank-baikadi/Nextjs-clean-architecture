@@ -8,7 +8,7 @@ export default function Layout({children,users,revenue,notifications}: {children
             <div>{users}</div>
             <div>{revenue}</div>
             </div>
-            <div style ={{display :"flex",flex:'1'}}>{notifications}</div>
+            <div style ={{display :"flex",flex:'1'}} className="bg-red-200">{notifications}</div>
         </div>
         </div>
     );

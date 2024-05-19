@@ -1,4 +1,4 @@
-export default function ComplexDashboard() {
+export default function DefaultComplexDashboard() {
     return (
         <div>
           complex dashboard

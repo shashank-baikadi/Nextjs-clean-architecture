@@ -113,3 +113,10 @@ if one section we wan to have loading we caan achieve it if we want to thrown er
 
 sub navigation 
 ![alt text](image-18.png)
+
+Unmatched routes 
+![alt text](image-19.png)
+we create default.tsx at the same level as page.tsx if dont we 404 error 
+![alt text](image-20.png)
+
+conditional routes 
