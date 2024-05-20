@@ -121,3 +121,9 @@ we create default.tsx at the same level as page.tsx if dont we 404 error
 
 conditional routes 
 in complex-dashboard when isloggedIn  is true then only i will be able to see the next page or else we cant 
+
+intercepting routes
+![alt text](image-21.png)
+![alt text](image-22.png)
+imp 
+![alt text](image-23.png)
