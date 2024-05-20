@@ -1,5 +1,6 @@
-export default function Layout({children,users,revenue,notifications}: {children: React.ReactNode; users: React.ReactNode, revenue: React.ReactNode, notifications: React.ReactNode}) {
-    return (
+export default function Layout({children,users,revenue,notifications,login}: {children: React.ReactNode; users: React.ReactNode, revenue: React.ReactNode, notifications: React.ReactNode,login : React.ReactNode}) {
+   const isLoggedIn=true;
+    return isLoggedIn ? (
         <div>
             <h1>Complex Dashboard</h1>
             {children}
@@ -11,5 +12,5 @@ export default function Layout({children,users,revenue,notifications}: {children
             <div style ={{display :"flex",flex:'1'}} className="bg-red-200">{notifications}</div>
         </div>
         </div>
-    );
+    ):(login );
 }
