@@ -127,3 +127,12 @@ intercepting routes
 ![alt text](image-22.png)
 imp 
 ![alt text](image-23.png)
+
+Route Handlers
+![alt text](image-24.png)
+
+Route Handlers
+![alt text](image-24.png)
+intercepting routes
+![alt text](image-21.png)
+![alt text](image-22.png)
