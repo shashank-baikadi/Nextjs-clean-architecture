@@ -139,3 +139,34 @@ intercepting routes
 
 middleware
 ![alt text](image-25.png)
+
+Rendering 
+![alt text](image-26.png)
+
+client side rendering
+![alt text](image-27.png)
+
+server side solution 
+![alt text](image-28.png)
+
+problem of server side rendering
+![alt text](image-29.png)
+![alt text](image-30.png)
+![alt text](image-31.png)
+
+suspense for ssr
+![alt text](image-32.png)
+
+execution of react server side loading sequence
+![alt text](image-33.png)
+
+streaming
+![alt text](image-34.png)
+an example for streaming 
+![alt text](image-35.png)
+
+server-only
+we have a package npm i server-only which will help use to keep all the api keys,algo,calculation etc hidden if the server-only is used in client side then it will throw an error 
+
+this is to be used at the top for importing the server-only module
+import "server-only"
