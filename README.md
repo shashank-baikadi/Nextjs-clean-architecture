@@ -136,3 +136,6 @@ Route Handlers
 intercepting routes
 ![alt text](image-21.png)
 ![alt text](image-22.png)
+
+middleware
+![alt text](image-25.png)
