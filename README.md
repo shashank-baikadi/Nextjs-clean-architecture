@@ -170,3 +170,6 @@ we have a package npm i server-only which will help use to keep all the api keys
 
 this is to be used at the top for importing the server-only module
 import "server-only"
+
+## if you use use client in a component and u have mentioned a child component which is server component but the parent component is client compnent then child will also be client component 
+![alt text](image-36.png)
