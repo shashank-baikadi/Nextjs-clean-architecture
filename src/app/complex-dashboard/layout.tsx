@@ -6,6 +6,7 @@ export default function Layout({children,users,revenue,notifications,login}: {ch
             {children}
             <div style = {{display: "flex"}}>
                 <div style ={{display: "flex", flexDirection: "column", flex: 1}}>
+                    <div>{login}</div>
             <div>{users}</div>
             <div>{revenue}</div>
             </div>
